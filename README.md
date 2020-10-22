@@ -1,2 +1,2 @@
 # UI-Clones
-Clones de interfaces populares
+Repositório com clones de interfaces populares.
